@@ -7,8 +7,6 @@ Back-End Java Developer
 Hi there! I'm a backend developer with a strong focus on Java, passionate about building efficient, scalable, and secure systems. I'm currently honing my skills in Java backend technologies and always looking for ways to contribute to various projects and collaborate on exciting software solutions. Feel free to check out my repositories, contribute, or reach out for collaboration!
 
 * ✉️  You can contact me at [www.linkedin.com/in/mohamed-sameer-xt](mailto:www.linkedin.com/in/mohamed-sameer-xt)
-* 🚀  I'm currently working on [Monetize (App to monetize the social channels)](http://github.com/sszxt/whatsmonitize)
-* 🧠  I'm learning Spring boot and restAPIs.
 
 ### Skills
 
