@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Sameer</h1>
-<h3 align="center">Passionate about backend development, DevOps, cloud computing, and AI-driven innovation, I thrive on building secure, scalable systems and solving complex engineering challenges. With experience in Java, blockchain, and web technologies, I focus on creating intelligent, cloud-native solutions through CI/CD, containerization, infrastructure as code, and automation. I’m always eager to learn, collaborate, and contribute to impactful, future-ready projects.</h3>
+<h3 align="center">Passionate about backend development, cloud computing, and AI-driven innovation, I thrive on building secure, scalable systems and solving complex engineering challenges. With experience in Java, blockchain, and web technologies, I focus on creating intelligent, cloud-native solutions through CI/CD, containerization, infrastructure as code, and automation. I’m always eager to learn, collaborate, and contribute to impactful, future-ready projects.</h3>
 
 - 🌱 I’m currently learning **DevOps tools (Docker, Kubernetes), Spring Boot, AWS, and AI integration in cloud systems**
 
