@@ -6,12 +6,6 @@ I focus on building tools, automations, and AI-powered apps that simplify work, 
 
 My current interests include building with Large Language Models (LLMs), developing tooling and automation for developers, creating scalable web apps and APIs, and designing productivity systems and workflows.
 
-### Fun Facts
-- I believe `rm -rf` is not a debugging tool.
-- I debug in my sleep and somehow it works.
-
----
-
 ### Tech Stack
 
 <p align="left">
@@ -23,4 +17,4 @@ My current interests include building with Large Language Models (LLMs), develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
----
+
