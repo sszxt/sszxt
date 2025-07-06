@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm **Sameer**, a developer who loves clean code, elegant systems, and solving hard problems at scale.
 
