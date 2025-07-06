@@ -4,13 +4,11 @@ I'm **Sameer**, a developer who loves clean code, elegant systems, and solving h
 
 I focus on building tools, automations, and AI-powered apps that simplify work, enhance productivity, and push what's possible with modern tech. 
 
----
+My current interests include building with Large Language Models (LLMs), developing tooling and automation for developers, creating scalable web apps and APIs, and designing productivity systems and workflows.
 
-### Current Interests
-- Building with Large Language Models (LLMs)
-- Developer tooling & automation
-- Scalable web apps & APIs
-- Productivity systems & workflows
+### Fun Facts
+- I believe `rm -rf` is not a debugging tool.
+- I debug in my sleep and somehow it works.
 
 ---
 
@@ -25,12 +23,4 @@ I focus on building tools, automations, and AI-powered apps that simplify work, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
-
-
-
-
-### Fun Facts
-- I believe `rm -rf` is not a debugging tool.
-- I debug in my sleep and somehow it works.
-
 ---
